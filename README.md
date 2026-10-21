@@ -1,2 +1,12 @@
 # Sesion112OrnelasAMS
-Sesion112OrnelasAMS con README
+> **Proyecto Prueba y Modelamiento de Software **
+
+--
+
+Fase I. Planeacion
+Fase II. Analisis
+Fase III. Diseño
+
+--
+
+> **Licencia **
